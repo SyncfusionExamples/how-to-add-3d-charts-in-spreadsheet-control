@@ -1,4 +1,4 @@
-# How to Add 3d Charts in WPF Spreadsheet?
+# How to Add 3D Charts in WPF Spreadsheet?
 
 This example demonstrates how to add 3D charts in [WPF Spreadsheet](https://www.syncfusion.com/wpf-controls/spreadsheet) (SfSpreadsheet).
 
@@ -8,3 +8,7 @@ To enable the Spreadsheet for rendering 3D charts when importing Excel sheet, re
 //To render 3D charts in SfSpreadsheet control.
 this.spreadsheetControl.Add3DGraphicChartCellRenderer(new Graphic3DChartCellRenderer());
 ```
+
+![Image showing spreadsheet with 3D charts](3DChartsInSpreadsheet.png)
+
+Take a moment to peruse the [WPF Spreadsheet - Getting Started](https://help.syncfusion.com/wpf/classic/spreadsheet/getting-started) documentation, where you can find about spreadsheet with code examples.
